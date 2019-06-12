@@ -1,0 +1,5 @@
+== jenkins-scriptlib-examples
+
+=== Reference
+
+* https://dev.to/kuperadrian/how-to-setup-a-unit-testable-jenkins-shared-pipeline-library-2e62
